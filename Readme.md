@@ -1,0 +1,3 @@
+# ADS - HashTable
+
+school project :(
